@@ -1,0 +1,6 @@
+http://bbs.ghtt.net/thread-131460-1-1.html
+
+控制台输出重定向到文件同时显示(仿linux的tee命令) 
+windows下写批处理编译程序的时候总想边看控制台输出边记录到文件 可是windows下貌似没有这么好的东西.....
+linux下有个tee的命令 用法 command | tee logfilename 这个"|" 是管道的意思 就是把前面的输出作为后面的输入..
+于是就写了这么个小东西 拿来分享下～ 估计大多数人没有用......
